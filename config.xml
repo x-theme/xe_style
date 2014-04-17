@@ -1,15 +1,19 @@
 <?xml version="1.0"?>
 <config>
+	<id>theme xe style</id>
 	<type>theme</type>
 	<view>pc</view>
+	<category>etc</category>
 	<name>
 		<en>XE Style</en>
 		<ko>XE 스타일</ko>
 	</name>
 	<version>0.1</version>
+	<author>JaeHo Song</author>
+	<email>thruthesky@gmail.com</email>
 	<short>
-		<en></en>
-		<ko></ko>
+		<en>Xe Style</en>
+		<ko>Xe Style</ko>
 	</short>
 	<detail>
 		<en></en>
